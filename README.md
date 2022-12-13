@@ -1,5 +1,7 @@
 👋 Hi, I’m Dara Kondoff
-👀 I’m interested in front-end development, interviewing and everything in between.
+
+👩‍💻 Software Engineer focused on TypeScript and React
+
 🌱 Currently learning Next.js
 
 <!---
